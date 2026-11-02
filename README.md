@@ -1,7 +1,7 @@
 
 # 🎮 [Название игры]
 
-![Обложка игры](file:///C:/Users/nerko/Downloads/image.jpeg)
+![Обложка игры](image.jpeg)
 
 **Жанр:** [Roguelike]  
 **Платформа:** [Windows]  
