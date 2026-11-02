@@ -1,7 +1,7 @@
 
 # 🎮 [Название игры]
 
-![Обложка игры](docs/images/cover.png)
+![Обложка игры](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5be5c3a-3a33-49a9-8838-f4ccb9b32bd6" />)
 
 **Жанр:** [Roguelike]  
 **Платформа:** [Windows]  
