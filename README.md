@@ -1,7 +1,7 @@
 
 # 🎮 [Название игры]
 
-![Обложка игры](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5be5c3a-3a33-49a9-8838-f4ccb9b32bd6" />)
+![Обложка игры](file:///C:/Users/nerko/Downloads/image.jpeg)
 
 **Жанр:** [Roguelike]  
 **Платформа:** [Windows]  
